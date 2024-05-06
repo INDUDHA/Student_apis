@@ -8,7 +8,7 @@ Clone the repo
 - Api url : http://localhost:8000/studentDetails
 - method : post
 - body(form-data) :{
-  files : "uploaded file path (should be in xlsx format)",
+  files : "uploaded file path (should be in xlsx format) template xlsx file is given.",
   name : "abcd",
   page_number : "1",
   page_size :"5"
@@ -109,3 +109,4 @@ Clone the repo
   }
   ]
   }
+
